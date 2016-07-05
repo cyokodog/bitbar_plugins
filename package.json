@@ -1,0 +1,9 @@
+{
+  "name": "bitbar_plugins",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "bitbar": "0.3.0"
+  },
+  "devDependencies": {}
+}
